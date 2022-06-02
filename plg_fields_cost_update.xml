@@ -2,7 +2,7 @@
 <updates> 
     <update> 
         <name> "Cost Field - Joomla" - show cost for articles DEMO FREE</name>
-     <!--     <description>Plugin for JoomShopping-Joomla ticket sales for cinemas, theaters, circuses, museums. parties, courses, lessons, trainings, couching.</description>-->
+     <!-- <description>Plugin for JoomShopping-Joomla ticket sales for cinemas, theaters, circuses, museums. parties, courses, lessons, trainings, couching.</description> -->
         <element>plg_fields_cost</element> 
         <type>plugin</type>
         <version>4.0.0</version>

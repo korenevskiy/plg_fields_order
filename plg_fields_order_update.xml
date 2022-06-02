@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates> 
     <update>  
-         "Order Field - Joomla" - create order for articles DEMO FREE
+         <name>  "Order Field - Joomla" - create order for articles DEMO FREE </name> 
      <!--    <description>Plugin for JoomShopping-Joomla ticket sales for cinemas, theaters, circuses, museums. parties, courses, lessons, trainings, couching.</description>-->
         <element>order</element> 
         <type>plugin</type>
